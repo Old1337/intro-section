@@ -237,7 +237,6 @@ body {
     flex-direction: row-reverse;
     padding: 5rem;
     gap: 5rem;
-    align-items: center;
   }
   .hero img {
     content: url("./images/image-hero-desktop.png");
@@ -249,7 +248,7 @@ body {
     flex-basis: 50%;
   }
   .landing_title {
-    font-size: 7rem;
+    font-size: 5rem;
     margin-bottom: 4rem;
   }
 
