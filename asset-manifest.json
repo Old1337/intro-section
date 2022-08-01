@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/intro-section/static/css/main.837e5944.css",
+    "main.css": "/intro-section/static/css/main.e009ab68.css",
     "main.js": "/intro-section/static/js/main.87e77507.js",
     "static/media/image-hero-desktop.png": "/intro-section/static/media/image-hero-desktop.50cc22fddeb0c072b414.png",
     "static/media/image-hero-mobile.png": "/intro-section/static/media/image-hero-mobile.adefc8b1bbed2ca80470.png",
@@ -18,11 +18,11 @@
     "static/media/icon-menu.svg": "/intro-section/static/media/icon-menu.863803c904916606b7a1998b3c5736aa.svg",
     "static/media/icon-arrow-down.svg": "/intro-section/static/media/icon-arrow-down.bebf05132571af33611ede9cdfdbed0f.svg",
     "static/media/icon-arrow-up.svg": "/intro-section/static/media/icon-arrow-up.01861a1152dfab5f1070.svg",
-    "main.837e5944.css.map": "/intro-section/static/css/main.837e5944.css.map",
+    "main.e009ab68.css.map": "/intro-section/static/css/main.e009ab68.css.map",
     "main.87e77507.js.map": "/intro-section/static/js/main.87e77507.js.map"
   },
   "entrypoints": [
-    "static/css/main.837e5944.css",
+    "static/css/main.e009ab68.css",
     "static/js/main.87e77507.js"
   ]
 }
